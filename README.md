@@ -1,2 +1,3 @@
 # History-Database-and-Timelines-Platform-Concept-
-Helps you see the bigger picture
+A community maintaned database of historical events as structured data, this is in juxtaposiotion to wikipedia's unstructured article format content.
+Through the structured database, a timelines platform can be built on top to enable the exploration of history in a new way, allowing users to get better context to historical events and see the bigger picture through a new lens into history. What was figure X upto when event Y happened? How old were they? Did they happen to have an important personal event going on? What did the technology look like at their time? Did they have invention Z available to them? These and endless more questions could be explored with such tools at hand. 
